@@ -85,7 +85,7 @@ function addClass(obj, cn) {
  * 判断一个元素中是否含有指定的class属性值
  *  如果有该class,则返回true,没有则返回false
  */
-function hasClss(obj, cn) {
+function hasClass(obj, cn) {
     //判断obj中有没有cn class
     //创建一个正则表达式
     //var reg = /\bb2\b/;//\b单词边界
